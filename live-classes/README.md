@@ -82,3 +82,6 @@
 - [Lecture 75 - Project Review Part 1](https://youtu.be/G9iV2fFkE7Y)
 - [Lecture 76 - Project Review Part 2](https://youtu.be/GixXnDSA3kw)
 - [Lecture 77 - Learning Plan for Enterprise Applications](https://youtu.be/TyRsFYImuW0)
+- [Lecture 78 - Introduction to Design System](https://youtu.be/bo7lgtzmTSQ)
+- [Lecture 79 - Implement Design System using SCSS](https://youtu.be/h8Dk1c8LeVs)
+- [Lecture 80 - Setup Mono Repo with Two Packages](https://youtu.be/-fbJRtm65Yo)
