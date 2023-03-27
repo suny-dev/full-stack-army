@@ -85,3 +85,5 @@
 - [Lecture 78 - Introduction to Design System](https://youtu.be/bo7lgtzmTSQ)
 - [Lecture 79 - Implement Design System using SCSS](https://youtu.be/h8Dk1c8LeVs)
 - [Lecture 80 - Setup Mono Repo with Two Packages](https://youtu.be/-fbJRtm65Yo)
+- [Lecture 81 - Create Atoms and Foundation Package](https://youtu.be/rWiNQ4SNwNE) 
+- [Lecture 82 - Create Select Molecules and Margin Atom](https://youtu.be/iNGpYYOysbo)
