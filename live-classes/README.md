@@ -87,3 +87,5 @@
 - [Lecture 80 - Setup Mono Repo with Two Packages](https://youtu.be/-fbJRtm65Yo)
 - [Lecture 81 - Create Atoms and Foundation Package](https://youtu.be/rWiNQ4SNwNE) 
 - [Lecture 82 - Create Select Molecules and Margin Atom](https://youtu.be/iNGpYYOysbo)
+- [Lecture 83 - Complete Select Component with Accessibilities](https://youtu.be/1e8yqBbDUdA)
+- [Lecture 84 - QNA, Random Discussion & Project Planning](https://youtu.be/0NS-B1QNt3Y)
